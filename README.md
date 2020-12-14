@@ -8,7 +8,7 @@ The following data of selected items can be saved in a CSV file.
 *Seller/ Store name
 *Item price
 
-![User Interface](https://ibb.co/2Pqh4NF)
+![User Interface](https://i.ibb.co/FJ63TVh/user-interface.jpg)
 https://ibb.co/4sNrZ1b
 https://ibb.co/GRZPZ8f
 https://ibb.co/hsMNHFk
