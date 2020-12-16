@@ -8,7 +8,6 @@ The following data of selected items can be saved in a CSV file.
 * Seller/ Store name
 * Item price
 <br>
-<br>
 
 ---
 App user interface as follows:
@@ -64,5 +63,4 @@ App user interface as follows:
 <br>
 
 ![Saved csv file](https://i.ibb.co/wyLqChT/csv-file.jpg)
-<br>
-<br>
+
