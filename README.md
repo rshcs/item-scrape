@@ -64,3 +64,12 @@ App user interface as follows:
 
 ![Saved csv file](https://i.ibb.co/wyLqChT/csv-file.jpg)
 
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+- External libraries required: **Beautifulsoup, lxml, requests**
